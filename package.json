@@ -1,0 +1,13 @@
+{
+  "name": "smart-trex-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.2.0"
+  }
+}
